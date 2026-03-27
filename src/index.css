@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: coffee, light; /* On active coffee en premier */
+}
+html{
+  scroll-behavior: smooth;
+}
