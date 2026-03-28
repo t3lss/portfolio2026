@@ -4,7 +4,7 @@ import { Football } from "@phosphor-icons/react";
 
 
 
-import { CalendarSync, Guitar, LetterText, Paintbrush } from "lucide-react";
+import {Guitar, Paintbrush } from "lucide-react";
 
 const aboutSections = [
   {

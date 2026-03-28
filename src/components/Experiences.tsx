@@ -16,9 +16,7 @@ import imgSQL from "../assets/techno/MySQL.png"
 import imgGit from "../assets/techno/git.png"
 import anssi from "../assets/companies/ANSSI_Logo.svg"
 
-import google from "../assets/companies/google.png";
-import meta from "../assets/companies/meta.webp";
-import amazon from "../assets/companies/amazon.png";
+
 import ul from "../assets/companies/Logo_UL.png"
 import bld from "../assets/companies/bld.jpg"
 import ab from "../assets/companies/ambroiseBrugiere.svg"

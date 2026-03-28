@@ -1,4 +1,4 @@
-import { Guitar, FishSymbol } from "lucide-react"
+import { FishSymbol } from "lucide-react"
 
 const Footer = () => {
   return (

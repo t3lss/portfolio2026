@@ -1,15 +1,12 @@
 import Title from "./Title"
-import img1 from "../assets/projects/1.png"
-import img2 from "../assets/projects/2.png"
-import img3 from "../assets/projects/3.png"
-import img4 from "../assets/projects/4.png"
+
 import img5 from "../assets/projects/5.png"
 import img6 from "../assets/projects/6.png"
 import imoweb from "../assets/projects/immoWeb.png"
 import wbld from "../assets/projects/wbld.png"
 import pbts from "../assets/projects/portfolioBTS2.png"
 import spacecorridor from "../assets/projects/spacecorridor.png"
-import { Cat, Video } from "lucide-react";
+import { Video } from "lucide-react";
 import { SiGithub } from '@icons-pack/react-simple-icons';
 
 

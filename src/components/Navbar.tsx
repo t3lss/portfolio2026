@@ -1,4 +1,4 @@
-import { Guitar,  FishSymbol} from "lucide-react"
+import {  FishSymbol} from "lucide-react"
 import cv from "../assets/CV_2026ERWANN.pdf"
 const Navbar = () => {
   return (
