@@ -42,12 +42,11 @@ const skills = [
 const parcours = [
     {
         id: 1,
-        role: "Licenece informatique",
-        company: "Université de lorraine",
-        period: "2024 - Présent",
+        role: "Licence informatique",
+        company: "Université de Lorraine",
+        period: "2024 - 2026",
         description: [
-            "Apprentissage Général de l'informatique ",
-            "Optimisation des performances de l'application.",
+            "Apprentissage Général de l'Informatique.",
         ],
         image: ul,
     },
@@ -57,7 +56,7 @@ const parcours = [
         company: "ANSSI",
         period: "2022",
         description: [
-            "score de 98%",
+            "Score de 98%",
             
         ],
         image: anssi,
@@ -65,7 +64,7 @@ const parcours = [
     {
         id: 3,
         role: "BTS SIO",
-        company: "Lycée Raymond POINCARE (Bar-le-Duc)",
+        company: "Lycée Raymond POINCARÉ (Bar-le-Duc)",
         period: "2022 - 2024",
         description: [
             "Spécialisation SLAM",
@@ -79,8 +78,9 @@ const parcours = [
         company: "Lycée Ambroise Brugière (Clermont-Ferand)",
         period: "2020 - 2022",
         description: [
-            "Spécialité : Mathématiques, Physique-Chimie, HGGSP",
-            "",
+            "Mathématiques",
+            "Physique-Chimie",
+            "HGGSP",
         ],
         image: ab,
     },

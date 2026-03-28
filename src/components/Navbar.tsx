@@ -1,5 +1,5 @@
 import { Guitar,  FishSymbol} from "lucide-react"
-
+import cv from "../assets/CV_2026ERWANN.pdf"
 const Navbar = () => {
   return (
     <div className="flex justify-center md:justify-between items-center p-4">
@@ -23,7 +23,7 @@ const Navbar = () => {
         <li>
             <a href="#About"
             className="btn btn-sm btn-ghost">
-                A propos
+                Au-delà du code
             </a>
         </li>
          <li>
@@ -36,6 +36,12 @@ const Navbar = () => {
             <a href="#Projets"
             className="btn btn-sm btn-ghost">
                 Mes Projets
+            </a>
+        </li>
+        <li>
+            <a href={cv}
+            className="btn btn-sm btn-ghost">
+                MON CV
             </a>
         </li>
        

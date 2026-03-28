@@ -33,23 +33,24 @@ const projects = [
         repoLink: '#',
         image: imoweb,
     },
+    
     {
         id: 3,
-        title: 'Portfolio ',
-        description: 'Portoflio réalisé en BTS, présenté lors d\'un projet.',
-        technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js'],
-        demoLink: '#',
-        repoLink: '#',
-        image: pbts,
-    },
-    {
-        id: 4,
         title: 'Spacecoridor',
         description: 'Jeu en C développé dans le cadre d\'un projet de synthèse en L2 Informatique. Le jeu reprends un game play simple de vaisseau spatiial à la XENON 2000.',
         technologies: ['C'],
         demoLink: '#',
         repoLink: '#',
         image: spacecorridor,
+    },
+    {
+        id: 4,
+        title: 'Portfolio ',
+        description: 'Portoflio réalisé en BTS, présenté lors d\'un projet.',
+        technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js'],
+        demoLink: '#',
+        repoLink: '#',
+        image: pbts,
     },
     {
         id: 5,
