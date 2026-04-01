@@ -1,4 +1,4 @@
-import { FishSymbol, Mail, MapPinned } from "lucide-react"
+import { FishSymbol, Mail } from "lucide-react"
 import { SiGithub,} from '@icons-pack/react-simple-icons'
 const Footer = () => {
   return (
