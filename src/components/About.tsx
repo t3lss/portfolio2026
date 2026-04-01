@@ -4,7 +4,7 @@ import { Football } from "@phosphor-icons/react";
 
 
 
-import {Guitar, Paintbrush } from "lucide-react";
+import {Guitar, Film } from "lucide-react";
 
 const aboutSections = [
   {
@@ -21,9 +21,9 @@ const aboutSections = [
   },
   {
       id: 3,
-      title: "Passionné par l'UI/UX",
-      description: "Créer des interfaces utilisateur attrayantes et fonctionnelles est ma priorité.",
-      icon: <Paintbrush className="text-accent scale-150" />,
+      title: "Montage Vidéo",
+      description: "Montages vidéos simple, pour des petits projets personnels ou pour des proches ",
+      icon: <Film className="text-accent scale-150" />,
   },
 ];
 const About = () => {

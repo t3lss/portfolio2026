@@ -1,7 +1,7 @@
 import Title from "./Title"
 
 import img5 from "../assets/projects/5.png"
-import img6 from "../assets/projects/6.png"
+
 import imoweb from "../assets/projects/immoWeb.png"
 import wbld from "../assets/projects/wbld.png"
 import pbts from "../assets/projects/portfolioBTS2.png"
@@ -58,15 +58,7 @@ const projects = [
         repoLink: '#',
         image: img5,
     },
-    {
-        id: 6,
-        title: 'Analyseur de sentiment',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae magni deserunt debitis recusandae ab harum totam, eum facilis et ratione officia ut inventore aspernatur',
-        technologies: ['Python', 'Flask', 'NLTK'],
-        demoLink: '#',
-        repoLink: '#',
-        image: img6,
-    },
+    
 ];
 const Projets = () => {
   return (

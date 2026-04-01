@@ -1,6 +1,6 @@
 import {FileUser, Mail } from "lucide-react"
 
-import img from '../assets/profil2.jpg'
+import img from '../assets/pp2.jpg'
 import cv from "../assets/CV_2026ERWANN.pdf"
 const Home = () => {
   return (
@@ -11,7 +11,7 @@ const Home = () => {
       <div className="flex flex-col ">
         <h1 className="text-5xl md:text-6xl font-bold text-center md:text-left mt-4 md:mt-0">Bonjour, <br /> je suis <span className="text-error ">Erwann</span></h1>
         <p className="my-4 text-medium text-center md:text-left">
-          Je suis un étudiant en Informatique Bac+2 <br />
+          Je suis un étudiant en Informatique Bac+2 <br /> à la recherche d'une altérnance !!
           
         </p>
 
