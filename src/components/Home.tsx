@@ -1,7 +1,7 @@
 import {FileUser, Mail } from "lucide-react"
 
 import img from '../assets/pp2.jpg'
-import cv from "../assets/CV_2026ERWANN.pdf"
+import cv from "../assets/CV 2026_ERWANNPortfolio.pdf"
 const Home = () => {
   return (
     /* Première div qui contient toute la partie principale*/

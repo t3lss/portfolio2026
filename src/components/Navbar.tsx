@@ -1,5 +1,5 @@
 import {  FishSymbol} from "lucide-react"
-import cv from "../assets/CV_2026ERWANN.pdf"
+import cv from "../assets/CV 2026_ERWANNPortfolio.pdf"
 const Navbar = () => {
   return (
     <div className="flex justify-center md:justify-between items-center p-4">
@@ -40,7 +40,7 @@ const Navbar = () => {
         </li>
         <li>
             <a href={cv}
-            className="btn btn-sm btn-ghost">
+            className="btn btn-sm btn-ghost"target="_blank">
                 MON CV
             </a>
         </li>
